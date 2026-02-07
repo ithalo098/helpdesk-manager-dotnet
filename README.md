@@ -8,7 +8,7 @@ Henrique Matos
 
 ## Diagrama
 
-![Diagrama]([diagrama-classes-uml.png](https://i.postimg.cc/rwDWtdFq/Whats-App-Image-2026-02-07-at-20-44-26.jpg))
+https://i.postimg.cc/rwDWtdFq/Whats-App-Image-2026-02-07-at-20-44-26.jpg
 
 ## Funcionalidades
 
