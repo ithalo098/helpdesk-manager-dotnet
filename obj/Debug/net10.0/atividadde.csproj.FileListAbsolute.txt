@@ -1,0 +1,14 @@
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.AssemblyInfoInputs.cache
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.AssemblyInfo.cs
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.csproj.CoreCompileInputs.cache
+C:\Users\ithal\Desktop\atividadde\bin\Debug\net10.0\atividadde.exe
+C:\Users\ithal\Desktop\atividadde\bin\Debug\net10.0\atividadde.deps.json
+C:\Users\ithal\Desktop\atividadde\bin\Debug\net10.0\atividadde.runtimeconfig.json
+C:\Users\ithal\Desktop\atividadde\bin\Debug\net10.0\atividadde.dll
+C:\Users\ithal\Desktop\atividadde\bin\Debug\net10.0\atividadde.pdb
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.dll
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\refint\atividadde.dll
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.pdb
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\atividadde.genruntimeconfig.cache
+C:\Users\ithal\Desktop\atividadde\obj\Debug\net10.0\ref\atividadde.dll
