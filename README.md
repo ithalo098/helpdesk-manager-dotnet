@@ -1,3 +1,33 @@
+# Helpdesk Manager .NET
+
+Sistema de chamados de suporte técnico em C# com clientes, técnicos, categorias e histórico.
+
+## Estrutura
+
+- [`Interfaces/`](./Interfaces/)
+- [`Models/`](./Models/)
+- [`Services/`](./Services/)
+- [`Program.cs`](./Program.cs)
+
+## Visão geral
+
+O código e os materiais deste repositório estão organizados para consulta e evolução do projeto. As funcionalidades descritas refletem os arquivos presentes, sem pressupor uma publicação em produção.
+
+## Tecnologias
+
+- C#
+- .NET
+
+## Executar localmente
+
+Requer o SDK .NET 10.
+
+```sh
+dotnet run --project atividadde.csproj
+```
+
+## Documentação do projeto
+
 # Sistema de Chamados de Suporte Técnico
 
 Sistema simples de gerenciamento de chamados desenvolvido em C# com Programação Orientada a Objetos.
